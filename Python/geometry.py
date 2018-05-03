@@ -1,3 +1,9 @@
+'''
+This program calculates the values of side A, angle b, and angle c of 
+a triangle based on the given information of side B, side C, and 
+angle a using the Law of Cosines and the Law of Sines.
+'''
+
 import math
 
 def lawOfCosines(B, C, a):
