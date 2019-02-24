@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: Florida International University
+-- Engineer: Guillermo Garrido
 -- 
 -- Create Date:    18:54:57 02/01/2019 
 -- Design Name: 
